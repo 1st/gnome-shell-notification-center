@@ -7,6 +7,8 @@ Notification Center - comes from [Mac OS Mountain Lion](http://en.wikipedia.org/
 Installation
 ------------
 
+Install from [Gnome Extensions page](https://extensions.gnome.org/local/)
+
 **Status of project:** under development.
 
 
