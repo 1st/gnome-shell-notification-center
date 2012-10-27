@@ -32,7 +32,6 @@ What's included?
 ----------------
 
 With Notification Center you can work with:
- - **Skype** integration (messages, incoming calls)
- - **Empathy** and **Pidgin** IM integration
+ - **Skype**, **Empathy** and **Pidgin** internet messangers
  - **Thunderbird** to check emails
  - **Evolution** to check calendar events
