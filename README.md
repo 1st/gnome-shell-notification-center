@@ -28,4 +28,4 @@ What's included?
 ----------------
 
 Skype integration (messages, incoming calls)
-Empathy integration
+Empathy and Pidgin IM integration
