@@ -20,7 +20,7 @@ I have started development process only in end of October 2012. It is not ready 
 **Required skills:** Java Script, CSS, reading [manual of Gnome Extensions]
 
 
-How it's work?
+How it works?
 --------------
 
 To show Notification Center, you need move mouse pointer to right side of your screen. To hide it - leave mouse out from Notification Center area.
