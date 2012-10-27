@@ -25,9 +25,14 @@ How it's work?
 
 To show Notification Center, you need move mouse pointer to right side of your screen. To hide it - leave mouse out from Notification Center area.
 
+Alternatively, you can click on Notification Center icon in the system tray, where appear number of new notifications.
+
 
 What's included?
 ----------------
 
-Skype integration (messages, incoming calls)
-Empathy and Pidgin IM integration
+With Notification Center you can work with:
+ - **Skype** integration (messages, incoming calls)
+ - **Empathy** and **Pidgin** IM integration
+ - **Thunderbird** to check emails
+ - **Evolution** to check calendar events
