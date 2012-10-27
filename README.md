@@ -32,6 +32,8 @@ What's included?
 ----------------
 
 With Notification Center you can work with:
+ - set option **Hide all notification** to focus on your current work
  - **Skype**, **Empathy** and **Pidgin** internet messangers
  - **Thunderbird** to check emails
  - **Evolution** to check calendar events
+ - **Twitter**, **Facebook**, **VK.com** social networks (send and read messages)
