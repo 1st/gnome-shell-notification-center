@@ -32,7 +32,7 @@ What's included?
 ----------------
 
 With Notification Center you can work with:
- - set option **Hide all notification** to focus on your current work
+ - set option **Hide all notification** to not disturb you
  - **Skype**, **Empathy** and **Pidgin** internet messangers
  - **Thunderbird** to check emails
  - **Evolution** to check calendar events
