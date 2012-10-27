@@ -17,7 +17,7 @@ Contribution
 
 I have started development process only in end of October 2012. It is not ready to use. But you can join to me and help develop this project more faster.
 
-**Required skills:** Java Script, CSS, reading [manual of Gnome Extensions]
+**Required skills:** Java Script, CSS, reading [manual of Gnome Extensions](https://live.gnome.org/GnomeShell/Extensions/)
 
 
 How it works?
